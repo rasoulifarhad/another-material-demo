@@ -26,13 +26,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-
-See https://docs.angular.lat/guide/router-tutorial-toh
-See https://github.com/PacktPublishing/Learning-Angular-Fourth-Edition/tree/main
-See https://stackblitz.com/angular/lmgmmarpvdrb?file=src%2Fapp%2Fhero-detail%2Fhero-detail.component.ts
-See https://stackblitz.com/angular/argbonpbgrv?file=src%2Fapp%2Fapp-routing.module.ts
-See https://docs.angular.lat/guide/singleton-services#forRoot-router
-See https://www.concretepage.com/angular/angular-functional-route-guards
-See https://stackblitz.com/angular/argbonpbgrv?file=src%2Fapp%2Fheroes%2Fhero-list%2Fhero-list.component.ts
-
-See https://angular.io/start
+See https://github.com/angular-university/angular-material-course/tree/master
+See https://www.freakyjolly.com/angular-material-card-example-using-mat-card-component/
+See https://github.com/angular-university/angular-course
+See https://github.com/angular-university/ngrx-course
+See https://github.com/angular-university/angular-router-course
+See https://github.com/angular-university/angular-forms-course
+See https://github.com/angular-university/angular-advanced-course
+See https://github.com/angular-university/angular-pwa-course
+See https://github.com/angular-university/ngrx-course-v4
+See https://github.com/angular-university/reactive-patterns-course
+See https://github.com/angular-university/angular-ebook
+See https://github.com/angular-university/typescript-course
+See https://github.com/angular-university/angular-viewchild-examples
+See https://github.com/angular-university/ng-template-example
+See https://github.com/angular-university/angular-router-menu-system
