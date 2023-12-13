@@ -31,6 +31,9 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { ExampleSidenavComponent } from './example-sidenav/example-sidenav.component';
 import { ToolbarComponent } from './toolbar/toolbar.component';
 import { BreakpointObserver } from '@angular/cdk/layout';
+import { GridListComponent } from './grid-list/grid-list.component';
+import { CardFancyExampleComponent } from './card-fancy-example/card-fancy-example.component';
+
 
 @NgModule({
     declarations: [
@@ -41,6 +44,8 @@ import { BreakpointObserver } from '@angular/cdk/layout';
         NavBarComponent,
         ExampleSidenavComponent,
         ToolbarComponent,
+        GridListComponent,
+        CardFancyExampleComponent,
     ],
     providers: [],
     bootstrap: [AppComponent],
@@ -70,6 +75,7 @@ import { BreakpointObserver } from '@angular/cdk/layout';
         MatTooltipModule,
         MatExpansionModule,
         RouterModule,
+        MatGridListModule
 
 
     ]
